@@ -17,6 +17,7 @@ def index():
         <img src="static/wall1.jpg">
         <img src="static/wall2.jpg">
         <img src="static/wall3.jpg">
+        <img src="static/wall4.jpg">
     </body>
     </html>
     """
